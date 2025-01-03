@@ -6,7 +6,7 @@ AIHub is a collection of valuable links and resources related to artificial inte
 
 ## 📌 **Categories**  
 - 📚 **Tutorials** – Learn AI, ML, and Deep Learning from the best resources.  
-- 🛠 **Tools** – Explore AI-powered tools and frameworks.  
+- 🛠 [**Tools**](#-tools) – Explore AI-powered tools and frameworks.  
 - 📄 **Research Papers** – Stay up to date with cutting-edge AI research.  
 - 💡 **Blogs & News** – Follow top AI blogs and news sources.  
 - 🏆 **Communities & Forums** – Engage with AI communities.  
@@ -17,6 +17,9 @@ AIHub is a collection of valuable links and resources related to artificial inte
 - 📌 [Fast.ai Courses](https://www.fast.ai/)  
 - 📌 [Hugging Face](https://huggingface.co/)  
 - 📌 [Awesome AI & ML GitHub List](https://github.com/josephmisiti/awesome-machine-learning)  
+
+## 🛠 **Tools**  
+- 🛠 [Napkin AI](https://napkin.ai/) – AI-powered tool for brainstorming and prototyping ideas.  
 
 _(Feel free to add more links!)_  
 
