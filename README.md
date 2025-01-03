@@ -49,9 +49,8 @@ Boost your career with these reputed AI certifications:
 - 🏆 [Reddit AI](https://www.reddit.com/r/artificial/) – AI discussions on Reddit.  
 - 🏆 [Stack Overflow AI](https://stackoverflow.com/questions/tagged/artificial-intelligence) – AI programming Q&A.  
 
-## 🔗 **Resources**  
-- 🔗 [Awesome AI & ML GitHub List](https://github.com/josephmisiti/awesome-machine-learning) – Curated AI resources.  
-- 🔗 [MIT AI Resources](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) – AI course from MIT.  
+## 🔗 **Resources**
+- 🔗 [MIT AI Resources](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)– AI course from MIT.  
 
 ## 🏗 **Contributing**  
 Want to add a new resource? Feel free to submit a pull request or open an issue!  
