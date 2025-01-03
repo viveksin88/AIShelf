@@ -1,4 +1,4 @@
-# **AIHub**  
+# **AIShelf**  
 *A curated repository of AI tutorials, tools, and resources.*  
 
 ## 🚀 **About**  
