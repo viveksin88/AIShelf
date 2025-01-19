@@ -28,6 +28,7 @@ AIShelf is a collection of valuable links and resources related to artificial in
 - 🛠 [Spotter Studio](https://partner.spotterstudio.com/fut...) – AI-powered tool for video content analysis.  
 - 🛠 [Guidde](https://www.guidde.com/) – AI-powered documentation and tutorial generator.  
 - 🛠 [Suno](https://suno.com/) – AI music creation platform.  
+- 🛠 [Looka](https://looka.com/) – AI-powered logo and icon design tool that generates app icons from uploaded images and suggests different styles.
 
 ## 🎓 **Certifications**  
 Boost your career with these reputed AI certifications:  
